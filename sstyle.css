@@ -1,0 +1,26 @@
+h{
+        color: white;
+        text-align: center;
+}
+#about {
+        color: black;
+}
+#projects{
+        text align: left;
+}
+
+
+#header {
+        background-color: navy;
+        color: lightgray;
+        text-align: center;
+}
+#image1{
+        margin: auto;
+        display: block;
+}
+body{
+        background-color: lightgray;
+}
+
+~                                  
